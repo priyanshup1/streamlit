@@ -70,7 +70,6 @@ seaborn==0.11.1
 selenium==3.141.0
 Send2Trash==1.5.0
 six==1.15.0
-sklearn==0.0
 smmap==4.0.0
 soupsieve==2.2.1
 streamlit==0.81.1
