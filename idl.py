@@ -2,9 +2,6 @@ from altair.vegalite.v4.schema.channels import Href
 import streamlit as st
 import pandas as pd
 import numpy as np
-import sklearn 
-import html
-import sklearn
 from sklearn import datasets
 import seaborn as sn 
 import matplotlib as plt
